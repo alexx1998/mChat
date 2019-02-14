@@ -1,0 +1,9 @@
+name: MChat
+version: ${project.version}
+main: org.mord.alexxsgames.mchat.MChat
+authors: [AlexxSGames]
+description: A chat plugin for Mordonia!
+commands:
+  mchat:
+    usage: /<command>
+    description: Main command for Mchat!
